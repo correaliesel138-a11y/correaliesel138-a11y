@@ -1,4 +1,4 @@
-[LieselCo.md](https://github.com/user-attachments/files/26280779/LieselCo.md)
+[lieCo.md](https://github.com/user-attachments/files/26280836/lieCo.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hola,%20soy%20Liesel!%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Python%20%7C%20SQL%20%7C%20Pandas&descAlignY=58&descSize=18&descColor=f0d6ff" width="100%"/>
@@ -89,7 +89,15 @@ class LieselCorrea:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=correaliesel138-a11y&theme=tokyonight&hide_border=true&ring=C084FC&fire=ec4899&currStreakLabel=a855f7" width="500"/>
+### 🏆 Trofeos
+<img src="https://github-profile-trophy.vercel.app/?username=correaliesel138-a11y&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="100%"/>
+
+### 🐍 Mis contribuciones
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/correaliesel138-a11y/correaliesel138-a11y/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/correaliesel138-a11y/correaliesel138-a11y/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/correaliesel138-a11y/correaliesel138-a11y/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
