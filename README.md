@@ -1,4 +1,4 @@
-[LieselCo.md](https://github.com/user-attachments/files/26279891/LieselCo.md)
+[LieselCo.md](https://github.com/user-attachments/files/26280779/LieselCo.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hola,%20soy%20Liesel!%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Python%20%7C%20SQL%20%7C%20Pandas&descAlignY=58&descSize=18&descColor=f0d6ff" width="100%"/>
