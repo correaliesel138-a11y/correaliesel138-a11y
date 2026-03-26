@@ -25,7 +25,7 @@
 
 ## 🌿 Sobre mí
 
-Soy **Científica de Datos** apasionada por extraer patrones significativos de conjuntos de datos complejos y convertirlos en decisiones inteligentes. Me especializo en construir modelos predictivos que generan valor real para las organizaciones.
+Soy **Científica de Datos** apasionada por extraer patrones de conjuntos de datos y convertirlos en decisiones. Me especializo en construir modelos predictivos que generan valor real para las organizaciones.
 
 Creo firmemente que los datos bien analizados tienen el poder de cambiar perspectivas — y eso es exactamente lo que busco hacer.
 
@@ -91,7 +91,7 @@ liesel = {
 - 📚 Profundizando en **Machine Learning** y modelos predictivos avanzados
 - 🤝 Colaborando con **4Geeks Academy** como organización
 - 🔭 Explorando técnicas de **análisis exploratorio de datos (EDA)**
-- ✍️ Construyendo un portafolio sólido de proyectos data-driven
+- ✍️ Construyendo un portafolio sólido de proyectos
 
 ---
 
